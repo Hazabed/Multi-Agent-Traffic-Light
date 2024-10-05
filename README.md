@@ -26,6 +26,18 @@ This real-time vehicle detection and state extraction allow the system to effect
 - **Experience Replay**: The agents store and sample past experiences in a replay memory to stabilize learning.
 - **SUMO Simulation**: Traffic simulation is done using the SUMO platform, a powerful tool for modeling real-world traffic scenarios.
 
+## Environment: Al-Malaz District in Riyadh
+
+The simulation environment was designed based on the **Al-Malaz district in Riyadh, Saudi Arabia**. Below are the satellite and simplified traffic map images used to create the simulation environment for optimizing traffic control using the Double DQN algorithm.
+
+### Satellite Image
+![image](https://github.com/user-attachments/assets/ca007761-f9ec-4081-a5ea-c17460c5c598)
+
+
+### Simulation Traffic Layout
+![image](https://github.com/user-attachments/assets/6322755f-9f41-46fa-80de-9eae0993fb41)
+
+
 ## Installation
 
 1. **Clone the repository**:
@@ -61,8 +73,7 @@ This real-time vehicle detection and state extraction allow the system to effect
    ```bash
    pip install ultralytics
    ```
-
-
+   
 ## Usage
 
 ### Simulation
@@ -71,8 +82,8 @@ This real-time vehicle detection and state extraction allow the system to effect
 
    ```python
    if __name__ == "__main__":
-       config_path = r"conf/configuration.sumocfg"  # Path to the SUMO configuration file
-       base_path = r"./"  # Base path for the project
+       config_path = r"configuration.sumocfg"  # Path to the SUMO configuration file
+       base_path = r"/content/drive/MyDrive/Colab Notebooks"  # Base path for the project
        simulation = TrafficSimulation(
            config_path, 
            base_path, 
