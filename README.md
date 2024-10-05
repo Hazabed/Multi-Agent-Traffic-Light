@@ -62,14 +62,6 @@ This real-time vehicle detection and state extraction allow the system to effect
    pip install ultralytics
    ```
 
-6. **Mount Google Drive (for Colab)**:
-
-   If you're using Google Colab, make sure to mount Google Drive to access video datasets and save trained models:
-
-   ```python
-   from google.colab import drive
-   drive.mount('/content/drive')
-   ```
 
 ## Usage
 
