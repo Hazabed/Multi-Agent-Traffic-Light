@@ -82,8 +82,8 @@ The simulation environment was designed based on the **Al-Malaz district in Riya
 
    ```python
    if __name__ == "__main__":
-       config_path = r"configuration.sumocfg"  # Path to the SUMO configuration file
-       base_path = r"/content/drive/MyDrive/Colab Notebooks"  # Base path for the project
+       config_path = r"conf/configuration.sumocfg"  # Path to the SUMO configuration file
+       base_path = r"./"  # Base path for the project
        simulation = TrafficSimulation(
            config_path, 
            base_path, 
