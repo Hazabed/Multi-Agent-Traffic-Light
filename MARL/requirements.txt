@@ -1,0 +1,9 @@
+
+numpy>=1.18.5
+tensorflow>=2.0.0
+matplotlib>=3.1.2
+traci>=1.8.0
+sumolib>=1.8.0
+pyserial>=3.4
+opencv-python>=4.5.3.56
+ultralytics>=8.0.0
