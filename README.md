@@ -37,7 +37,7 @@ This real-time vehicle detection and state extraction allow the system to effect
 2. **Navigate to the project directory**:
 
    ```bash
-   cd traffic-light-control-sumo
+   cd traffic-light-control-sumo/MARL
    ```
 
 3. **Install dependencies**:
