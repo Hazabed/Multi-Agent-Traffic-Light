@@ -527,5 +527,5 @@ class TrafficSimulation:
 if __name__ == "__main__":
     config_path = r"conf/configuration.sumocfg"
     base_path = r"MARL"
-    simulation = TrafficSimulation(config_path, base_path, epochs=1, steps=1000, window_size=32)
-    simulation.run_simulation(train=False)
+    simulation = TrafficSimulation(config_path, base_path, epochs=1, steps=1000, window_size=32,train=False)
+    simulation.run_simulation()
