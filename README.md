@@ -158,22 +158,21 @@ Both of these results are saved as images in the `plots` directory after the sim
 
 List of team members who contributed to this project:
 
-- Member 1: [Majed Abdulrahman Balubaid]
-  Email: [majedbalubaid0@gmail.com]  
-  GitHub: [https://github.com/majedP]  
-  LinkedIn: [https://www.linkedin.com/in/majedbalubaid/]
 
-- Member 2: [Hassan Abid]
+- Member 1: [Hassan Abid]
   Email: [hssanabid7@gmail.com]  
   GitHub: [https://github.com/Hazabed]  
   LinkedIn: [https://www.linkedin.com/in/Hassanabid7]
 
-- Member 3: [Abdulaziz Alsidais], 
+- Member 2: [Abdulaziz Alsidais], 
   Email: [aalsidias@gmail.com]  
   GitHub: [https://github.com/azooz1422]  
   LinkedIn: [ https://www.linkedin.com/in/abdulaziz-alsidais-936464231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
 
-
+- Member 3: [Majed Abdulrahman Balubaid]
+  Email: [majedbalubaid0@gmail.com]  
+  GitHub: [https://github.com/majedP]  
+  LinkedIn: [https://www.linkedin.com/in/majedbalubaid/]
 
 - Member 4: [Hamad Ibrahim Binnumay]
   Email: [hamadnomi658@gmail.com]  
