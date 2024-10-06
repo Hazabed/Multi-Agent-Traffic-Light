@@ -69,6 +69,7 @@ The simulation environment was designed based on the **Al-Malaz district in Riya
    ```
    and folow these instructions for windows:
       ```https://sumo.dlr.de/docs/Downloads.php#windows```
+   and change the line 355 from "sumo" to "sumo-gui" to use the GUI and see how the agent interact with the environment 
 6. **Install YOLOv11x (Ultralytics)**:
 
    ```bash
